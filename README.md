@@ -2,5 +2,5 @@
 Repository for Kicad Symbol and Footprint 
 
 # Componentis Available:
-LCD 240x240 ST7789 
+LCD ST7789 1.3 inch 240x240 TFT
 
