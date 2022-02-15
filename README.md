@@ -4,4 +4,4 @@ Repository for Kicad Symbol and Footprint
 # Componentis Available:
 LCD ST7789 1.3 inch 240x240 TFT
 # Componentis Available:
-1. LCD ST7789 1.3 inch 240x240 TFT (https://github.com/BennyLuca/M3U_Extractor/releases/tag/Playlist_Extractor)
+1. LCD ST7789 1.3 inch 240x240 TFT (ST7789_1.3_240x240/DOC/1.3 Inch Colorful TFT Module ST7789.jpg)
